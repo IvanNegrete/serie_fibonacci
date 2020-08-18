@@ -1,5 +1,5 @@
 # serie_fibonacci
  Serie de Fibonacci para IA
  
- #ALUMNO
- Negrete Ojeda, Ivan Alberto
+ ## ALUMNO:
+- Negrete Ojeda, Ivan Alberto
